@@ -32,7 +32,7 @@ jobs:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_SECRET }}
           # METRICS_SECRET is a special auto-generated token used for commits
-          committer_token: ${{ secrets.secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.METRICS_SECRET }}
 
           # Options
           user: rdottin-untuckit
