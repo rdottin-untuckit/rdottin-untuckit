@@ -8,6 +8,10 @@
 </a>
 <br/>
 <a href="https://github.com/rdottin-untuckit">
+  <img align="center" width="49%" src="./lines-of-code.svg" />
+</a>
+<!--
+<a href="https://github.com/rdottin-untuckit">
   <img align="center" width="49%" src="./repositories.svg" />
 </a>
 <a href="https://github.com/rdottin-untuckit">
@@ -25,6 +29,7 @@
 <a href="https://github.com/rdottin-untuckit">
   <img align="center" width="49%" src="./github-habits.svg" />
 </a>
+-->
 <a href="https://github.com/rdottin-untuckit">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
